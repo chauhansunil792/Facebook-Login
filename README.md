@@ -29,7 +29,7 @@ rest stuff will be done by that API.
 
  $user = $fblogin->getUser("redirect url",array('email','public_profile'));
  
- #for the developer
+ # For the contributer
  Programmer can commit and contribute to this code, it wil be very helpfull to make something easy for the world of programmers. 
  
  
